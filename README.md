@@ -1,0 +1,1 @@
+This repository contains code I wrote while learning C programming with a book C programming, A modern Approach by K. N. King as a guide. This is purely for study and therefore any corrections or contributions will be highly welcomed.
